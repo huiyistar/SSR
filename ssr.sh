@@ -1,3 +1,4 @@
+git clone -b master https://github.com/huiyistar/SSR.git
 cd SSR
 bash initcfg.sh
 cd shadowsocks
