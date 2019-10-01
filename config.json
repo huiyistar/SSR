@@ -10,7 +10,7 @@
     "protocol": "auth_sha1_v4",
     "protocol_param": "",
     "obfs": "http_simple",
-    "obfs_param": "lt.hn.189.cn",
+    "obfs_param": "",
     "speed_limit_per_con": 0,
     "speed_limit_per_user": 0,
 
